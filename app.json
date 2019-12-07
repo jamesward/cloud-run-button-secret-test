@@ -2,6 +2,9 @@
   "env": {
     "FOO": {
       "generator": "secret"
+    },
+    "BAR": {
+      "description": "bar"
     }
   }
 }
